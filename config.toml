@@ -1,0 +1,4 @@
+baseURL = "https://eclecticbouquet.github.io/resume/"
+languageCode = "en-us"
+title = "Resume"
+theme = "almeida-cv"
