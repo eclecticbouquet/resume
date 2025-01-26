@@ -4,3 +4,6 @@
 [submodule "themes/themes/almeida-cv"]
 	path = themes/themes/almeida-cv
 	url = https://github.com/ineesalmeida/almeida-cv
+[submodule "themes/almeida-cv"]
+	path = themes/almeida-cv
+	url = https://github.com/ineesalmeida/almeida-cv
